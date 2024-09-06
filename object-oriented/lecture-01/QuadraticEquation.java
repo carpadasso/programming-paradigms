@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class QuadraticEquation {
+public class QuadraticEquation
+{
    public static void main(String args[]) throws IOException
    {
       int a, b, c;

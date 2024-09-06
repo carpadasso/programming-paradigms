@@ -1,6 +1,7 @@
 import java.io.*;
 
-public class PeopleAge {
+public class PeopleAge
+{
    public static void main(String args[]) throws IOException
    {
       int idades[] = new int[10];

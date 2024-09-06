@@ -1,6 +1,7 @@
 import java.io.*;
 
-public class WordCount {
+public class WordCount
+{
    public static void main(String args[]) throws IOException
    {
       String frase;

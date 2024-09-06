@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class MatrixSum {
+public class MatrixSum
+{
    public static void main(String args[]) throws IOException
    {
       int m1[][] = new int[3][3];

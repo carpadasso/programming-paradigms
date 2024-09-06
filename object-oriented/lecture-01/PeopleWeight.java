@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class PeopleWeight {
+public class PeopleWeight
+{
    public static void main(String args[]) throws IOException
    {
       int cont = 0;

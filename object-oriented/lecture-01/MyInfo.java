@@ -1,6 +1,7 @@
 import java.io.*;
 
-public class MyInfo {
+public class MyInfo
+{
    public static void main(String args[]) throws IOException
    {
       String nome, timeFutebol, bairro;

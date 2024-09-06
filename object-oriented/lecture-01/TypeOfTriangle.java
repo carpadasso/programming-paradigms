@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class TypeOfTriangle {
+public class TypeOfTriangle
+{
    public static void main(String args[]) throws IOException
    {
       double l1, l2, l3;

@@ -1,6 +1,7 @@
 import java.io.*;
 
-public class VerifyName {
+public class VerifyName
+{
    public static void main(String args[]) throws IOException
    {
       String nomes[] = new String[10];

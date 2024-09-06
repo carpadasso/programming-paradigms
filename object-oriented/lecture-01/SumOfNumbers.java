@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class SumOfNumbers {
+public class SumOfNumbers
+{
    public static void main(String args[]) throws IOException
    {
       int i, soma;

@@ -1,6 +1,7 @@
 import java.io.*;
 
-public class PeopleDraw {
+public class PeopleDraw
+{
    public static void main(String args[]) throws IOException
    {
       String participantes[] = { "Aristóteles", "Bacon", "Confúcio", 

@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class StudentsGrades {
+public class StudentsGrades
+{
    public static void main(String args[]) throws IOException
    {
       int i, j;

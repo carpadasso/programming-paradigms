@@ -1,6 +1,7 @@
 import java.io.*;
 
-public class MultiplesOfThree {
+public class MultiplesOfThree
+{
    public static void main(String args[]) throws IOException
    {
       int i, soma;

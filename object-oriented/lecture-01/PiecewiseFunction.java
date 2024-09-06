@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class PiecewiseFunction {
+public class PiecewiseFunction
+{
    public static void main(String args[]) throws IOException
    {
       double x;
